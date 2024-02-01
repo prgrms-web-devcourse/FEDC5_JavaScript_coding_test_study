@@ -1,12 +1,11 @@
 const local_input = `
-7
-ca
-cade
-caed
-cae
-coff
-c
-cb
+6
+hello
+hi
+h
+run
+rerun
+running
 `;
 
 const input = process.execArgv.includes("--stack-size=65536")
